@@ -1,0 +1,15 @@
+p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: blueviolet;
+}
+
+body {
+    background-image: url("snow.jpg");
+}
